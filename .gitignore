@@ -1,0 +1,32 @@
+# kompilacja C
+*.o
+*.out
+*.exe
+*.obj
+*.so
+*.a
+
+# backupy
+*~
+*.swp
+
+# katalogi kompilacji
+/build
+/bin
+/Debug
+/Release
+
+# VS Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# MacOS
+.DS_Store
+
+# Linux core dumps
+*.core
+
+# Windows
+Thumbs.db

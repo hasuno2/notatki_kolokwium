@@ -1,0 +1,1 @@
+notatki na kolokwium z poprzednik cwiczen
